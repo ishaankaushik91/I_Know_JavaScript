@@ -1,4 +1,4 @@
-// All primes in Arithmetic Series (RECURSION)
+// Summation of all primes in Arithmetic Progression (RECURSION)
 function PrimeCheck(start, number) {
   if (start < number) {
     if (number % start == 0) {
@@ -12,10 +12,11 @@ function PrimeCheck(start, number) {
 function Generate(a) {
   if (a <= 1000) {
     if (PrimeCheck(2, a)) {
-      console.log(a);
+      return a + Generate(a + 7);
     }
     return Generate(a + 7);
   }
+  return 0;
 }
 
-Generate(10);
+console.log(Generate(10));
