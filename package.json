@@ -1,5 +1,25 @@
 {
+  "name": "i_know_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
   "dependencies": {
     "events": "^3.3.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaankaushik91/I_Know_JavaScript.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishaankaushik91/I_Know_JavaScript/issues"
+  },
+  "homepage": "https://github.com/ishaankaushik91/I_Know_JavaScript#readme"
 }

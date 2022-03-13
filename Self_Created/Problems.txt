@@ -24,4 +24,4 @@ Problems :
 20. Algorithm to make given number it’s closest factorial
 21. Algorithm to delete random element from an 1 dimensional array
 22. Algorithm to Insert element at random index in a matrix
-23.
+23. Algorithm to generate random numbers until a prime number is enountered
