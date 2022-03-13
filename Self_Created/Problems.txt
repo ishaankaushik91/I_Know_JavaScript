@@ -1,0 +1,27 @@
+Problems :
+
+
+1. Frequency of chars in string.
+2. 1st Uppercase in string
+3. Print table of prime ascii (extracting from string)
+4. Sum of all primes in a range
+5. Palindromic primes in a range
+6. Print elements with only odd frequency
+7. Cousin Primes under a range
+8. 4X4 matrix using Recursion
+9. Separate primes & non-primes in 2 different arrays
+10. Making a number forced prime
+11. Delete non - duplicated elements in array
+12. Insert element at given position in array
+13. Find duplicates in array Recursively
+14. Getting closest cousin Primes Recursively
+15. Element with highest frequency
+16. Most frequent element in array Recursively
+17. Deleting all primes from an array
+18. Recursively keep only numbers in array —> [12, “hey”, 11, 120] —> [12, 11, 120]
+19. Algorithm that first finds factorial of a given number & then makes it the closest prime to itself
+
+20. Algorithm to make given number it’s closest factorial
+21. Algorithm to delete random element from an 1 dimensional array
+22. Algorithm to Insert element at random index in a matrix
+23.
