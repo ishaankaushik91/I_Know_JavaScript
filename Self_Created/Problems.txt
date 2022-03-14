@@ -28,3 +28,5 @@ Problems :
 
 25. Algorithm to give sum of all duplicates in a array
 26. Algorithm to give sum of all duplicates in a matrix
+27. Algorithm to keep on inserting element at random index in array until frequency is prime
+28. Algorithm to keep on inserting element at random index in a matrix until frequency is prime
