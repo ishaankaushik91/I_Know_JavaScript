@@ -1,6 +1,5 @@
 Problems :
 
-
 1. Frequency of chars in string.
 2. 1st Uppercase in string
 3. Print table of prime ascii (extracting from string)
@@ -25,3 +24,7 @@ Problems :
 21. Algorithm to delete random element from an 1 dimensional array
 22. Algorithm to Insert element at random index in a matrix
 23. Algorithm to generate random numbers until a prime number is enountered
+24. Algorithm to insert only randomly generated primes inside an array
+
+25. Algorithm to give sum of all duplicates in a array
+26. Algorithm to give sum of all duplicates in a matrix
