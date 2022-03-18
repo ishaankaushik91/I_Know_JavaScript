@@ -8,7 +8,8 @@
     "events": "^3.3.0",
     "loading-cli": "^1.1.0",
     "node-schedule": "^2.1.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "twilio": "^3.75.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
