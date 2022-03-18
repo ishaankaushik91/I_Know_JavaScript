@@ -31,3 +31,6 @@ Problems :
 27. Algorithm to keep on inserting element at random index in array until frequency is prime
 28. Algorithm to keep on inserting element at random index in a matrix until frequency is prime
 29. Algorithm to break a string into prime parts
+
+30. Considering only nth duplicate as a dupliicate in array
+31. Considering only nth duplicate as a duplicate in matrix
