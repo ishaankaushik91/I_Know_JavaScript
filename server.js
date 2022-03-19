@@ -1,13 +1,15 @@
-import { EventEmitter } from "events";
+// Client - Sever model
+import http from "http";
+import url from "url";
 
-let eventEmitter = new EventEmitter();
+let server = http.createServer((req, res) => {
+    
+    let obj = {"data" : 5000};
+    res.end("Early");
+    console.log(req.url);
 
-eventEmitter.on('start', () => {
-    console.log("Yo Yo YO");
 });
 
-eventEmitter.emit('start');
-
-// .emit is to trigger an event
-// .on takes event name & a callback, this is like what to do when event has been triggered
-// NOTE : Without emit there's no .on gonna work since noone is triggering the event
+server.listen(5000, () => {
+    console.log(`Server started on port ${5000}`);
+});
